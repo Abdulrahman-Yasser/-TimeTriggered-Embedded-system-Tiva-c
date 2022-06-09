@@ -6,3 +6,4 @@ Using TM4C123GH6PM on a TIVA-C board
 
 using "code composer Studio 11.0.0"
 
+(The codes still needs cleaning)
